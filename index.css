@@ -23,8 +23,8 @@
     padding: 0;
     /* Supprimer les paddings par défaut du body */
     overflow: hidden;
-    /* Empêche le défilement de la page */
-    box-sizing: border-box;
+    /* Empêche le défilement de la page*/ 
+    box-sizing: border-box; 
     /*facilite la gestion des dimensions des éléments */
     font-family: 'Raleway', sans-serif;
     /* Police principale */
@@ -1168,6 +1168,7 @@
         flex-direction: column;
         width: 100%;
         position: relative;
+        height: 300px;
     }
 
     .end_1 {
