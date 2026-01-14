@@ -191,7 +191,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background: linear-gradient(135deg, #ff77d0 0%, #9b4dff 100%);
+        background: linear-gradient(135deg, #ff77d0 10%, #9b4dff 90%);
         border: 1px;
         width: 40%;
         height: 80px;
@@ -673,7 +673,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background: linear-gradient(135deg, #ff77d0 0%, #9b4dff 100%);
+        background: linear-gradient(135deg, #ff77d0 10%, #9b4dff 90%);
         border: 1px;
         width: 50%;
         height: 100px;
@@ -1371,7 +1371,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background: linear-gradient(135deg, #ff77d0 0%, #9b4dff 100%);
+        background: linear-gradient(135deg, #ff77d0 10%, #9b4dff 90%);
         border: 1px;
         width: 25%;
         height: 80px;
@@ -1983,7 +1983,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background: linear-gradient(135deg, #ff77d0 0%, #9b4dff 100%);
+        background: linear-gradient(135deg, #ff77d0 10%, #9b4dff 90%);
         border: 1px;
         width: 70%;
         height: 60px;
